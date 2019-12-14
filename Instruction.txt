@@ -1,0 +1,44 @@
+------------This app is made by Bayu Hidayah M. -------------
+Aplikasi ini hampir 80% back-end prosesnya menggunakan AJAX dan JSON
+dan sisanya menggunakan plugin-plugin yang ada diinternet serta
+menggunakan OOP PHP
+
+Penting!! =============================================================
+1. Jangan mengubah apapun yang ada didalam folder sistem. Jika anda
+   belum bisa memahami cara kerjanya.
+2. Jangan mengubah dan menghapus apapun yang ada di folder assets!.
+3. third_party berisi plugin-plugin jadi jangan dihapus ataupun diubah!
+   ini akan berpengaruh pada file-file yang berada di folder library 
+   dan system.
+4. Jika terjadi kesalahan koneksi ke server, maka ketika client meminta
+   request ke halaman lain maka akan di redirect ke index.php untuk mencoba
+   mengkoneksikan kembali ke server secara terus-menerus sampai terkoneksi
+
+Level User
+1. Admin
+2. Bank
+3. Pelanggan
+- Akan sulit jika anda ingin menambah atau mengubah level user tersebut,
+karena sebagian digunakan discript berdasarkan level mereka. Dan ini
+mungkin satu kesalahan bagi pemerintah mendesain databasenya. Yang
+dinamakan level user itu tidak bisa diubah dan ditambah seenaknya karena
+berpengaruh terhadap sisemnya maka dari itu banyak developer yang mendesain
+level user terdahulu pada sistem aplikasi mereka.
+
+Tarif
+- Data tarif itu berdasarkan informasi yang berada di internet. Anda bisa mengubah
+dan menghapusnya tetapi itu akan berpengaruh besar pada pembayaran karena
+total harga pemakaian nya itu diambil dari akumulasi tarif
+
+Used Plugin
+1. SweetAlert
+2. Jquery, AJAX + JSON
+3. Crypt
+4. FPDF
+5. zmdi icons
+6. Bootstrap
+
+Templates : Material Dashboard AdminCC
+
+For more information contact my whatsapp number :
++62 852 8045 5065
